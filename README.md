@@ -1,6 +1,5 @@
 # My First GitHub Repo
-
-👋 Hi, I'm Pushkar Mishra  
+ I'm Pushkar Mishra  
 🎓 B.Tech CSE Student  
 
 This repository is created to learn Git and GitHub step by step.
