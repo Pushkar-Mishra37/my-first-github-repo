@@ -8,7 +8,8 @@ This repository is created to learn Git and GitHub step by step.
 ## What this repo contains
 - GitHub basics
 - Practice files
-- Learning notes
+- Learning notesclear
+
 
 ## Goals
 - Learn version control
