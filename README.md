@@ -1,5 +1,6 @@
-                                  👋 Hi, I’m Pushkar Mishra
-                 Software Engineer | C/C++ Developer | Open Source Contributor
+# 💫 Hi 👋, I'm Pushkar Mishra
+**Software Engineer | C/C++ Developer | Open Source Contributor**
+
 I learn faster by building real projects than by just watching tutorials. My GitHub is where I experiment, build, and grow.
 
 # 💫 About Me:
