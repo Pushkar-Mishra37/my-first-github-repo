@@ -7,11 +7,6 @@ I learn faster by building real projects than by just watching tutorials. My Git
 
 
 
-
-# 💫 About Me:
-- Focus: Building real-world software projects<br>- Learning: Data Structures, Algorithms, and System Design<br>- Collaboration: Open to internships and project opportunities<br>- Activity: Consistently improving through coding and problem solving<br>
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_pushkar_mishra.780) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pushkar-mishra-72185a367) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@1234pushkar1234) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:1234pushkar1234@gmail.com) 
 
